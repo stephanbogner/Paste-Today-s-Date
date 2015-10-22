@@ -7,7 +7,7 @@ By adding the date as a prefix you always know how old your work is and it alway
 
 ## Setup
 ### 1. Download and installation
-[**Download the script**](https://github.com/stephanbogner/Paste-Todays-Date/blob/master/automatorScript.zip), **unzip**, **open it** and **hit install**.
+[**Download the script**](https://github.com/stephanbogner/Paste-Todays-Date/raw/master/automatorScript.zip), **unzip**, **open it** and **hit install**.
 ![Installation](assets/install_service.png)
 
 ### 2. (Optional) Customization
