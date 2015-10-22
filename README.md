@@ -7,7 +7,7 @@ By adding the date as a prefix you always know how old your work is and it alway
 
 ## Setup
 ### 1. Download and installation
-Download the file ["Paste today's date.workflow"](), open it and hit install.
+[**Download the script**](https://github.com/stephanbogner/Paste-Todays-Date/blob/master/automatorScript.zip), **unzip**, **open it** and **hit install**.
 ![Installation](assets/install_service.png)
 
 ### 2. (Optional) Customization
@@ -17,8 +17,10 @@ By default the script would add the prefix as `YYMMDD` (e.g. `150820` for the 20
 If you want to change it, select **"Open with Automator"** instead of completing the installation.
 ![Installation complete](assets/customize_prefix.png)
 
-This will open an application called **Automator**, you have to change a few lines of code to customize the prefix, but don't worry, you don't need to know how to code to do that.
+This will open an application called **Automator** which handles the functionality. You have to change a few lines of code to customize the prefix, but don't worry, you don't need to know how to code to do that.
 ![Customize your prefix](assets/customize_prefix2.png)
+
+At the top of the script are a few lines which help you customize the prefix. They mean the following:
 
 - **"shortenYear = true"** will paste the year with two digits, e.g. **15 for 2015**
 - **"shortenYear = false"** will use four digits instead, e.g. **2015 for 2015**
